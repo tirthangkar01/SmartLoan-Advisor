@@ -1,5 +1,5 @@
 ![image](https://user-images.githubusercontent.com/105802909/178466859-fe51762e-bdbe-4907-8c31-1feb1b7e3875.png)
-# Loan-Project
+# Smart-Loan Advisor
 Classification with Python
 In this notebook we try to practice all the classification algorithms that we have learned in this course.
 
